@@ -1,1 +1,2 @@
-hey there welcome to git bash
+hey there wellcome to git bash
+This is a new line.
